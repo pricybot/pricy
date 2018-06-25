@@ -1,0 +1,1905 @@
+{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9969430193546308,
+    "datetime": "2018-06-15 08:31"
+}{
+    "sentence": "How are you?",
+    "class": "work",
+    "value": 0.8984436597048193,
+    "datetime": "2018-06-15 08:31"
+}{
+    "sentence": "show me samsung phones",
+    "class": "brand1",
+    "value": 0.34178717361229705,
+    "datetime": "2018-06-15 08:32"
+}{
+    "sentence": "samsung j7",
+    "class": "model",
+    "value": 0.9853885082200573,
+    "datetime": "2018-06-15 08:36"
+}{
+    "sentence": "what is the price of samsung phones",
+    "class": "brand1",
+    "value": 0.9595365626528476,
+    "datetime": "2018-06-15 08:36"
+}{
+    "sentence": "what is the price of samsung j7",
+    "class": "model",
+    "value": 0.9820940760401278,
+    "datetime": "2018-06-15 08:36"
+}{
+    "sentence": "tell me the price of iphone",
+    "class": "brand1",
+    "value": 0.9793608312855261,
+    "datetime": "2018-06-15 08:36"
+}{
+    "sentence": "tell me the price of iphone x",
+    "class": "brand1",
+    "value": 0.9793608312855261,
+    "datetime": "2018-06-15 08:36"
+}{
+    "sentence": "hi pricy",
+    "class": "greeting",
+    "value": 0.9972007038398619,
+    "datetime": "2018-06-15 08:40"
+}{
+    "sentence": "how are you",
+    "class": "work",
+    "value": 0.965548636232516,
+    "datetime": "2018-06-15 08:40"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9971641972033319,
+    "datetime": "2018-06-15 08:45"
+}{
+    "sentence": "i want to buy samsung",
+    "class": "brand1",
+    "value": 0.9389106559036352,
+    "datetime": "2018-06-15 08:45"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9971893531473067,
+    "datetime": "2018-06-15 08:48"
+}{
+    "sentence": "what do you do",
+    "class": "work",
+    "value": 0.9956446497124111,
+    "datetime": "2018-06-15 08:48"
+}{
+    "sentence": "hi pricy how are you",
+    "class": "work",
+    "value": 0.8755950540145139,
+    "datetime": "2018-06-15 08:51"
+}{
+    "sentence": "hi pricy",
+    "class": "greeting",
+    "value": 0.9970542607566372,
+    "datetime": "2018-06-15 09:00"
+}{
+    "sentence": "samsung",
+    "class": "brand1",
+    "value": 0.9484459446282069,
+    "datetime": "2018-06-15 09:01"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9968629265552984,
+    "datetime": "2018-06-15 09:10"
+}{
+    "sentence": "do you have samsung phone?",
+    "class": "brand1",
+    "value": 0.3517579812425581,
+    "datetime": "2018-06-15 09:10"
+}{
+    "sentence": "j7",
+    "class": "model",
+    "value": 0.9164106722973854,
+    "datetime": "2018-06-15 09:10"
+}{
+    "sentence": "hi pricy",
+    "class": "greeting",
+    "value": 0.9968608543544377,
+    "datetime": "2018-06-15 09:13"
+}{
+    "sentence": "oppo f5",
+    "class": "model",
+    "value": 0.9972638029913095,
+    "datetime": "2018-06-15 09:13"
+}{
+    "sentence": "how are you?",
+    "class": "work",
+    "value": 0.9577375810679403,
+    "datetime": "2018-06-15 09:13"
+}{
+    "sentence": "what do you do?",
+    "class": "work",
+    "value": 0.9961655873214602,
+    "datetime": "2018-06-15 09:13"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9974126888586549,
+    "datetime": "2018-06-15 09:23"
+}{
+    "sentence": "how are you pricy?",
+    "class": "health",
+    "value": 0.9968782192257613,
+    "datetime": "2018-06-15 09:23"
+}{
+    "sentence": "what u do",
+    "class": "work",
+    "value": 0.9687352394911524,
+    "datetime": "2018-06-15 09:24"
+}{
+    "sentence": "no i want mi",
+    "class": "brand1",
+    "value": 0.9443201519587199,
+    "datetime": "2018-06-15 09:24"
+}{
+    "sentence": "mi 6",
+    "class": "model",
+    "value": 0.9907219762361829,
+    "datetime": "2018-06-15 09:24"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9970489589338435,
+    "datetime": "2018-06-15 09:27"
+}{
+    "sentence": "hi pricy",
+    "class": "greeting",
+    "value": 0.9970536566281063,
+    "datetime": "2018-06-15 09:34"
+}{
+    "sentence": "i dont want any phone",
+    "class": "negative",
+    "value": 0.9168960890804269,
+    "datetime": "2018-06-15 09:34"
+}{
+    "sentence": "hi pricy how are you",
+    "class": "health",
+    "value": 0.9979584763554793,
+    "datetime": "2018-06-15 09:37"
+}{
+    "sentence": "how are you",
+    "class": "health",
+    "value": 0.980361468141241,
+    "datetime": "2018-06-15 09:37"
+}{
+    "sentence": "ok",
+    "class": "utter",
+    "value": 0.9968441624483745,
+    "datetime": "2018-06-15 09:37"
+}{
+    "sentence": "so what do you do",
+    "class": "work",
+    "value": 0.9965780747203921,
+    "datetime": "2018-06-15 09:38"
+}{
+    "sentence": "hmm",
+    "class": "utter",
+    "value": 0.9969389698260915,
+    "datetime": "2018-06-15 09:38"
+}{
+    "sentence": "compare samsung phone",
+    "class": "brand1",
+    "value": 0.984584451675298,
+    "datetime": "2018-06-15 09:38"
+}{
+    "sentence": "j7",
+    "class": "model",
+    "value": 0.9551439270818994,
+    "datetime": "2018-06-15 09:38"
+}{
+    "sentence": "how are you",
+    "class": "health",
+    "value": 0.9971279620813207,
+    "datetime": "2018-06-15 09:41"
+}{
+    "sentence": "how",
+    "class": "health",
+    "value": 0.20098466826887096,
+    "datetime": "2018-06-15 09:41"
+}{
+    "sentence": "how are you",
+    "class": "health",
+    "value": 0.9971279620813207,
+    "datetime": "2018-06-15 09:41"
+}{
+    "sentence": "how are you pricy",
+    "class": "health",
+    "value": 0.9987494927520392,
+    "datetime": "2018-06-15 09:41"
+}{
+    "sentence": "hi pricy how are you",
+    "class": "health",
+    "value": 0.9900039438171515,
+    "datetime": "2018-06-15 09:43"
+}{
+    "sentence": "ok good",
+    "class": "utter",
+    "value": 0.9999867954959543,
+    "datetime": "2018-06-15 09:43"
+}{
+    "sentence": "hi pricy",
+    "class": "greeting",
+    "value": 0.9918425669350436,
+    "datetime": "2018-06-15 09:51"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9971012430027629,
+    "datetime": "2018-06-15 09:56"
+}{
+    "sentence": "hey pricy",
+    "class": "greeting",
+    "value": 0.9894250381800672,
+    "datetime": "2018-06-15 12:41"
+}{
+    "sentence": "what is the price of samsung s8",
+    "class": "brand1",
+    "value": 0.9958083551343153,
+    "datetime": "2018-06-15 13:02"
+}{
+    "sentence": "samsung j7",
+    "class": "model",
+    "value": 0.92459130590654,
+    "datetime": "2018-06-15 13:03"
+}{
+    "sentence": "samsung",
+    "class": "brand1",
+    "value": 0.8409103977461152,
+    "datetime": "2018-06-15 13:03"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9969935321882377,
+    "datetime": "2018-06-15 13:05"
+}{
+    "sentence": "how are you",
+    "class": "health",
+    "value": 0.995858134475423,
+    "datetime": "2018-06-15 13:05"
+}{
+    "sentence": "what do u do",
+    "class": "work",
+    "value": 0.9789877118961002,
+    "datetime": "2018-06-15 13:05"
+}{
+    "sentence": "no i dont like",
+    "class": "negative",
+    "value": 0.9184764287617125,
+    "datetime": "2018-06-15 13:05"
+}{
+    "sentence": "look for huawei",
+    "class": "greeting",
+    "value": 0.43796762273671064,
+    "datetime": "2018-06-15 13:06"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9967500526165293,
+    "datetime": "2018-06-15 22:25"
+}{
+    "sentence": "samsung",
+    "class": "brand1",
+    "value": 0.7299824626426742,
+    "datetime": "2018-06-15 22:25"
+}{
+    "sentence": "j7 pro",
+    "class": "model1",
+    "value": 0.9045319551607184,
+    "datetime": "2018-06-15 22:25"
+}{
+    "sentence": "7",
+    "class": "model1",
+    "value": 0.5528635613027735,
+    "datetime": "2018-06-15 22:25"
+}{
+    "sentence": "nokia 7",
+    "class": "model1",
+    "value": 0.61705331640515,
+    "datetime": "2018-06-15 22:25"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9971171901529419,
+    "datetime": "2018-06-15 22:27"
+}{
+    "sentence": "iphone",
+    "class": "brand1",
+    "value": 0.9728019320319068,
+    "datetime": "2018-06-15 22:27"
+}{
+    "sentence": "x",
+    "class": "utter",
+    "value": 0.24548826246413252,
+    "datetime": "2018-06-15 22:28"
+}{
+    "sentence": "iphone x",
+    "class": "brand1",
+    "value": 0.988939702593069,
+    "datetime": "2018-06-15 22:28"
+}{
+    "sentence": "iphone x",
+    "class": "brand1",
+    "value": 0.988939702593069,
+    "datetime": "2018-06-15 22:28"
+}{
+    "sentence": "nokia",
+    "class": "brand1",
+    "value": 0.9124274223952367,
+    "datetime": "2018-06-15 22:28"
+}{
+    "sentence": "hi",
+    "class": "greeting",
+    "value": 0.9970347781304518,
+    "datetime": "2018-06-15 22:38"
+}{
+    "sentence": "hi pricy",
+    "class": "greeting",
+    "value": 0.9972263819039764,
+    "datetime": "2018-06-15 23:04"
+}{
+    "sentence": "how are you",
+    "class": "health",
+    "value": 0.9762942147718889,
+    "datetime": "2018-06-15 23:04"
+}{
+    "sentence": "what do you do",
+    "class": "work",
+    "value": 0.9960844278037391,
+    "datetime": "2018-06-15 23:04"
+}{
+    "sentence": "ok",
+    "class": "utter",
+    "value": 0.9969384866301585,
+    "datetime": "2018-06-15 23:04"
+}{
+    "sentence": "i love you pricy",
+    "class": "health",
+    "value": 0.3065936256056358,
+    "datetime": "2018-06-15 23:04"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-15 23:07"
+}{
+    "sentence": "hi pricy dear",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "i am not looking for phone",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "tel me a joke",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "i see",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "nothing",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-15 23:09"
+}{
+    "sentence": "please be kind to me",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "give me shriya phone number",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "arusha",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "ok thats nice",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "do you understand samsung?",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "yes samsung",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "samsung j7 pro",
+    "datetime": "2018-06-15 23:19"
+}{
+    "sentence": "samsung galaxy",
+    "datetime": "2018-06-15 23:20"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "samsung j7 pro",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "no",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "ok i will talk to you later",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "nohting",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-18 17:20"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:30"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:37"
+}{
+    "sentence": "i want samsung j7",
+    "datetime": "2018-06-18 17:37"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:41"
+}{
+    "sentence": "smsung j7",
+    "datetime": "2018-06-18 17:41"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:43"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-18 17:43"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:45"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-18 17:45"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:47"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-18 17:47"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-18 17:48"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-18 17:48"
+}{
+    "sentence": "how ar eyou",
+    "datetime": "2018-06-18 17:51"
+}{
+    "sentence": "i want to buy samsung galaxy j7",
+    "datetime": "2018-06-18 17:51"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-18 17:52"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-18 17:56"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 13:30"
+}{
+    "sentence": "i want samsung j7",
+    "datetime": "2018-06-20 13:30"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:21"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 14:21"
+}{
+    "sentence": "j1 ace",
+    "datetime": "2018-06-20 14:21"
+}{
+    "sentence": "hi pricy",
+    "datetime": "2018-06-20 14:24"
+}{
+    "sentence": "i want samsung j7",
+    "datetime": "2018-06-20 14:24"
+}{
+    "sentence": "what about j7 ace",
+    "datetime": "2018-06-20 14:25"
+}{
+    "sentence": "mi 4?",
+    "datetime": "2018-06-20 14:25"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-20 14:25"
+}{
+    "sentence": "s6",
+    "datetime": "2018-06-20 14:25"
+}{
+    "sentence": "s6",
+    "datetime": "2018-06-20 14:26"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 14:26"
+}{
+    "sentence": "how you have mi phones?",
+    "datetime": "2018-06-20 14:29"
+}{
+    "sentence": "mi 6",
+    "datetime": "2018-06-20 14:29"
+}{
+    "sentence": "what about samsung j7",
+    "datetime": "2018-06-20 14:29"
+}{
+    "sentence": "compare samsung s6",
+    "datetime": "2018-06-20 14:30"
+}{
+    "sentence": "s6",
+    "datetime": "2018-06-20 14:30"
+}{
+    "sentence": "compare s6",
+    "datetime": "2018-06-20 14:31"
+}{
+    "sentence": "hi do you know the price of samsung j7",
+    "datetime": "2018-06-20 14:33"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:35"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 14:35"
+}{
+    "sentence": "what about mi 6",
+    "datetime": "2018-06-20 14:36"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:37"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 14:37"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-20 14:37"
+}{
+    "sentence": "compare mi 6",
+    "datetime": "2018-06-20 14:37"
+}{
+    "sentence": "mi 6",
+    "datetime": "2018-06-20 14:37"
+}{
+    "sentence": "Mi 6",
+    "datetime": "2018-06-20 14:38"
+}{
+    "sentence": "what about Mi 6",
+    "datetime": "2018-06-20 14:38"
+}{
+    "sentence": "lksdjf",
+    "datetime": "2018-06-20 14:39"
+}{
+    "sentence": "sdlkfj",
+    "datetime": "2018-06-20 14:41"
+}{
+    "sentence": "sdkfj",
+    "datetime": "2018-06-20 14:41"
+}{
+    "sentence": "kljsdf",
+    "datetime": "2018-06-20 14:43"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:45"
+}{
+    "sentence": "jsldf",
+    "datetime": "2018-06-20 14:45"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:47"
+}{
+    "sentence": "hello",
+    "datetime": "2018-06-20 14:47"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 14:47"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:50"
+}{
+    "sentence": "hii",
+    "datetime": "2018-06-20 14:50"
+}{
+    "sentence": "kjo",
+    "datetime": "2018-06-20 14:50"
+}{
+    "sentence": "iyiu\\",
+    "datetime": "2018-06-20 14:50"
+}{
+    "sentence": "do you have samsung j7",
+    "datetime": "2018-06-20 14:50"
+}{
+    "sentence": "tell me the price of samsung j7",
+    "datetime": "2018-06-20 14:50"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:53"
+}{
+    "sentence": "do you have samsung j7?",
+    "datetime": "2018-06-20 14:53"
+}{
+    "sentence": "do you have samsung j7",
+    "datetime": "2018-06-20 14:53"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 14:53"
+}{
+    "sentence": "tell me the price of mi 6",
+    "datetime": "2018-06-20 14:53"
+}{
+    "sentence": "hello",
+    "datetime": "2018-06-20 14:56"
+}{
+    "sentence": "i want samsung j7",
+    "datetime": "2018-06-20 14:56"
+}{
+    "sentence": "do you have mi 6?",
+    "datetime": "2018-06-20 14:56"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 14:59"
+}{
+    "sentence": "i want samsung j7",
+    "datetime": "2018-06-20 14:59"
+}{
+    "sentence": "hello pricy",
+    "datetime": "2018-06-20 15:04"
+}{
+    "sentence": "do you have samsung j7",
+    "datetime": "2018-06-20 15:04"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-20 15:04"
+}{
+    "sentence": "what is the price of mi 6",
+    "datetime": "2018-06-20 15:05"
+}{
+    "sentence": "what is the price of Mi 6",
+    "datetime": "2018-06-20 15:05"
+}{
+    "sentence": "what is the price of note 6",
+    "datetime": "2018-06-20 15:05"
+}{
+    "sentence": "what is the price of note 4",
+    "datetime": "2018-06-20 15:06"
+}{
+    "sentence": "what is the price of Note 4",
+    "datetime": "2018-06-20 15:06"
+}{
+    "sentence": "compare s6",
+    "datetime": "2018-06-20 15:06"
+}{
+    "sentence": "compare a8",
+    "datetime": "2018-06-20 15:06"
+}{
+    "sentence": "compare 4A",
+    "datetime": "2018-06-20 15:07"
+}{
+    "sentence": "do you have mi 5",
+    "datetime": "2018-06-20 15:07"
+}{
+    "sentence": "do you have mi 6",
+    "datetime": "2018-06-20 15:07"
+}{
+    "sentence": "compare s2",
+    "datetime": "2018-06-20 15:08"
+}{
+    "sentence": "compare s2",
+    "datetime": "2018-06-20 15:08"
+}{
+    "sentence": "price",
+    "datetime": "2018-06-20 15:08"
+}{
+    "sentence": "compare",
+    "datetime": "2018-06-20 15:08"
+}{
+    "sentence": "what is the price of s2",
+    "datetime": "2018-06-20 15:08"
+}{
+    "sentence": "what is the price of j7",
+    "datetime": "2018-06-20 15:09"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 15:16"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 15:16"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 15:17"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 15:18"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:18"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 15:19"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:19"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:19"
+}{
+    "sentence": "s6",
+    "datetime": "2018-06-20 15:20"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:20"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 15:28"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 15:28"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:38"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:44"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:45"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:52"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:54"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 15:57"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 16:00"
+}{
+    "sentence": "s6",
+    "datetime": "2018-06-20 16:00"
+}{
+    "sentence": "what is the price of j7",
+    "datetime": "2018-06-20 16:00"
+}{
+    "sentence": "i love you pricy",
+    "datetime": "2018-06-20 16:00"
+}{
+    "sentence": "ok thats fine",
+    "datetime": "2018-06-20 16:00"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-20 16:00"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-20 22:40"
+}{
+    "sentence": "nokia",
+    "datetime": "2018-06-20 22:40"
+}{
+    "sentence": "6600",
+    "datetime": "2018-06-20 22:40"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-20 22:41"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 22:41"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-20 22:42"
+}{
+    "sentence": "hi pricy",
+    "datetime": "2018-06-20 22:45"
+}{
+    "sentence": "no i dont want phone",
+    "datetime": "2018-06-20 22:45"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-20 22:45"
+}{
+    "sentence": "what do you do",
+    "datetime": "2018-06-20 22:45"
+}{
+    "sentence": "hmm compare samsung j7",
+    "datetime": "2018-06-20 22:46"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-20 22:46"
+}{
+    "sentence": "do you have Mi 6",
+    "datetime": "2018-06-20 22:46"
+}{
+    "sentence": "Hi Pricy",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "no i dont want phone",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "tell me how are you",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "what can you do for me",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "ok compare samsung phone",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-20 22:48"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-20 22:49"
+}{
+    "sentence": "hi pricy",
+    "datetime": "2018-06-22 11:37"
+}{
+    "sentence": "how are you doing",
+    "datetime": "2018-06-22 11:37"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-22 11:38"
+}{
+    "sentence": "so do you have sasmung phones",
+    "datetime": "2018-06-22 11:38"
+}{
+    "sentence": "sasmung",
+    "datetime": "2018-06-22 11:38"
+}{
+    "sentence": "so do you have samsung phones",
+    "datetime": "2018-06-22 11:38"
+}{
+    "sentence": "pricy please tell me the price of samsung j7",
+    "datetime": "2018-06-22 11:45"
+}{
+    "sentence": "pricy please tell me the price of samsung j7",
+    "datetime": "2018-06-22 11:50"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-22 11:50"
+}{
+    "sentence": "slkdjf",
+    "datetime": "2018-06-22 11:50"
+}{
+    "sentence": "oirehglknvpoeir",
+    "datetime": "2018-06-22 11:50"
+}{
+    "sentence": "j9",
+    "datetime": "2018-06-22 11:51"
+}{
+    "sentence": "samsung j0",
+    "datetime": "2018-06-22 11:51"
+}{
+    "sentence": "samsung a1",
+    "datetime": "2018-06-22 11:51"
+}{
+    "sentence": "j0",
+    "datetime": "2018-06-22 11:55"
+}{
+    "sentence": "samsung j0",
+    "datetime": "2018-06-22 11:55"
+}{
+    "sentence": "samsung j0",
+    "datetime": "2018-06-22 11:59"
+}{
+    "sentence": "samsung j0",
+    "datetime": "2018-06-22 12:01"
+}{
+    "sentence": "j0",
+    "datetime": "2018-06-22 12:01"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:07"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:07"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 12:07"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:23"
+}{
+    "sentence": "J7",
+    "datetime": "2018-06-22 12:25"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:29"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:31"
+}{
+    "sentence": "j9",
+    "datetime": "2018-06-22 12:31"
+}{
+    "sentence": "dskf",
+    "datetime": "2018-06-22 12:31"
+}{
+    "sentence": "sdjfdl",
+    "datetime": "2018-06-22 12:31"
+}{
+    "sentence": "wefyioef",
+    "datetime": "2018-06-22 12:31"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 12:32"
+}{
+    "sentence": "samsung j0",
+    "datetime": "2018-06-22 12:32"
+}{
+    "sentence": "j0",
+    "datetime": "2018-06-22 12:32"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:32"
+}{
+    "sentence": "price of j7",
+    "datetime": "2018-06-22 12:33"
+}{
+    "sentence": "price of j3",
+    "datetime": "2018-06-22 12:33"
+}{
+    "sentence": "price of j8",
+    "datetime": "2018-06-22 12:33"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 12:33"
+}{
+    "sentence": "price of samsung",
+    "datetime": "2018-06-22 12:33"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 12:33"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:35"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 12:35"
+}{
+    "sentence": "mi 5",
+    "datetime": "2018-06-22 12:35"
+}{
+    "sentence": "mi 5",
+    "datetime": "2018-06-22 12:38"
+}{
+    "sentence": "which models are available",
+    "datetime": "2018-06-22 12:39"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 12:40"
+}{
+    "sentence": "j9",
+    "datetime": "2018-06-22 12:40"
+}{
+    "sentence": "sdif",
+    "datetime": "2018-06-22 12:40"
+}{
+    "sentence": "klsdjf",
+    "datetime": "2018-06-22 12:42"
+}{
+    "sentence": "dk",
+    "datetime": "2018-06-22 12:42"
+}{
+    "sentence": "",
+    "datetime": "2018-06-22 12:42"
+}{
+    "sentence": "",
+    "datetime": "2018-06-22 12:42"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 12:43"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-22 12:44"
+}{
+    "sentence": "can you please tell me the price of huawei phones",
+    "datetime": "2018-06-22 12:47"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 12:47"
+}{
+    "sentence": "ok bye",
+    "datetime": "2018-06-22 12:48"
+}{
+    "sentence": "oppo f7",
+    "datetime": "2018-06-22 12:53"
+}{
+    "sentence": "oppo f5",
+    "datetime": "2018-06-22 12:53"
+}{
+    "sentence": "oppo f5",
+    "datetime": "2018-06-22 13:09"
+}{
+    "sentence": "oppo f7",
+    "datetime": "2018-06-22 13:10"
+}{
+    "sentence": "i want you",
+    "datetime": "2018-06-22 13:16"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 13:24"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 13:24"
+}{
+    "sentence": "what do you do",
+    "datetime": "2018-06-22 13:24"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 13:24"
+}{
+    "sentence": "ok bye",
+    "datetime": "2018-06-22 13:24"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 13:34"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 13:34"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 13:34"
+}{
+    "sentence": "what do you do",
+    "datetime": "2018-06-22 13:34"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-22 13:34"
+}{
+    "sentence": "thnks",
+    "datetime": "2018-06-22 13:35"
+}{
+    "sentence": "thanks",
+    "datetime": "2018-06-22 13:35"
+}{
+    "sentence": "thankyou",
+    "datetime": "2018-06-22 13:35"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 13:44"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 13:44"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-22 13:44"
+}{
+    "sentence": "thank you",
+    "datetime": "2018-06-22 13:44"
+}{
+    "sentence": "thanks",
+    "datetime": "2018-06-22 13:44"
+}{
+    "sentence": "thnks",
+    "datetime": "2018-06-22 13:44"
+}{
+    "sentence": "tq",
+    "datetime": "2018-06-22 13:45"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-22 13:45"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 13:45"
+}{
+    "sentence": "samsung a1",
+    "datetime": "2018-06-22 13:45"
+}{
+    "sentence": "samsung j5",
+    "datetime": "2018-06-22 13:45"
+}{
+    "sentence": "samsung s8",
+    "datetime": "2018-06-22 13:45"
+}{
+    "sentence": "samsung j7 prime",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "j7 prime",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "samsung j7 pro",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "samsung note 5",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "samsung s8 edge",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "samsung a3",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "samsung A3",
+    "datetime": "2018-06-22 13:46"
+}{
+    "sentence": "price of iphone x",
+    "datetime": "2018-06-22 13:50"
+}{
+    "sentence": "price of iphone 7",
+    "datetime": "2018-06-22 13:50"
+}{
+    "sentence": "price of iphone x",
+    "datetime": "2018-06-22 13:52"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 13:53"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 13:53"
+}{
+    "sentence": "iphone x",
+    "datetime": "2018-06-22 13:53"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-22 13:53"
+}{
+    "sentence": "price of iphone x",
+    "datetime": "2018-06-22 13:53"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 13:55"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 13:55"
+}{
+    "sentence": "what can you do for me",
+    "datetime": "2018-06-22 13:55"
+}{
+    "sentence": "iphone x",
+    "datetime": "2018-06-22 13:55"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:00"
+}{
+    "sentence": "iphone x",
+    "datetime": "2018-06-22 14:00"
+}{
+    "sentence": "iphone 7",
+    "datetime": "2018-06-22 14:00"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:05"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 14:05"
+}{
+    "sentence": "what are you looking for",
+    "datetime": "2018-06-22 14:05"
+}{
+    "sentence": "i dont want samsung",
+    "datetime": "2018-06-22 14:05"
+}{
+    "sentence": "iphone x",
+    "datetime": "2018-06-22 14:06"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-22 14:07"
+}{
+    "sentence": "do you have samsung j7",
+    "datetime": "2018-06-22 14:07"
+}{
+    "sentence": "do you have samsung j7 prime?",
+    "datetime": "2018-06-22 14:07"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-22 14:07"
+}{
+    "sentence": "thanks bye",
+    "datetime": "2018-06-22 14:08"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-22 14:08"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:28"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 14:29"
+}{
+    "sentence": "kj",
+    "datetime": "2018-06-22 14:29"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:32"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:33"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:33"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 14:33"
+}{
+    "sentence": "j9",
+    "datetime": "2018-06-22 14:33"
+}{
+    "sentence": "j0",
+    "datetime": "2018-06-22 14:33"
+}{
+    "sentence": "a3",
+    "datetime": "2018-06-22 14:33"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 14:34"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:37"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:37"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 14:37"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:37"
+}{
+    "sentence": "iphone",
+    "datetime": "2018-06-22 14:38"
+}{
+    "sentence": "mi",
+    "datetime": "2018-06-22 14:38"
+}{
+    "sentence": "redmi",
+    "datetime": "2018-06-22 14:38"
+}{
+    "sentence": "lg",
+    "datetime": "2018-06-22 14:38"
+}{
+    "sentence": "sony",
+    "datetime": "2018-06-22 14:38"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:42"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:42"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 14:42"
+}{
+    "sentence": "tq",
+    "datetime": "2018-06-22 14:43"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-22 14:43"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-22 14:43"
+}{
+    "sentence": "byee",
+    "datetime": "2018-06-22 14:43"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-22 14:43"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:46"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-22 14:46"
+}{
+    "sentence": "what do you do",
+    "datetime": "2018-06-22 14:46"
+}{
+    "sentence": "samung",
+    "datetime": "2018-06-22 14:46"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:46"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 14:46"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-22 14:51"
+}{
+    "sentence": "how are you bitch",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "what do you do",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "ok fuck you",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "ok bye",
+    "datetime": "2018-06-22 14:52"
+}{
+    "sentence": "BYE",
+    "datetime": "2018-06-22 16:33"
+}{
+    "sentence": "hi\\",
+    "datetime": "2018-06-24 23:47"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-24 23:47"
+}{
+    "sentence": "nokia",
+    "datetime": "2018-06-24 23:47"
+}{
+    "sentence": "980",
+    "datetime": "2018-06-24 23:47"
+}{
+    "sentence": "jkl",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "l;uj",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "980\\",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "980",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "a1",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-24 23:48"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-24 23:56"
+}{
+    "sentence": "nokia",
+    "datetime": "2018-06-24 23:56"
+}{
+    "sentence": "960",
+    "datetime": "2018-06-24 23:56"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-24 23:57"
+}{
+    "sentence": "What can you do?",
+    "datetime": "2018-06-25 09:56"
+}{
+    "sentence": "I don't like them.",
+    "datetime": "2018-06-25 09:56"
+}{
+    "sentence": "samsung j7",
+    "datetime": "2018-06-25 09:57"
+}{
+    "sentence": "s8",
+    "datetime": "2018-06-25 09:57"
+}{
+    "sentence": "s1",
+    "datetime": "2018-06-25 09:57"
+}{
+    "sentence": "what phones are available",
+    "datetime": "2018-06-25 10:00"
+}{
+    "sentence": "gfghj",
+    "datetime": "2018-06-25 10:03"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "jsdlf",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "jsldkfj",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "mcv",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "sdkjfhse",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "ksjdfgekjw",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "skjdfhlksd",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "aqwegqiuw",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "ekfjsd",
+    "datetime": "2018-06-25 10:06"
+}{
+    "sentence": "dl;krgjoire",
+    "datetime": "2018-06-25 10:07"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-25 10:07"
+}{
+    "sentence": "lkfjgv",
+    "datetime": "2018-06-25 10:07"
+}{
+    "sentence": "/liyoidqv",
+    "datetime": "2018-06-25 10:35"
+}{
+    "sentence": "ksnc",
+    "datetime": "2018-06-25 10:35"
+}{
+    "sentence": "kncxsk",
+    "datetime": "2018-06-25 10:35"
+}{
+    "sentence": "hello pricy",
+    "datetime": "2018-06-25 10:38"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 10:41"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-25 10:41"
+}{
+    "sentence": "do you have samsung j8",
+    "datetime": "2018-06-25 10:41"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 11:00"
+}{
+    "sentence": "do you have samsung j7",
+    "datetime": "2018-06-25 11:01"
+}{
+    "sentence": "j7",
+    "datetime": "2018-06-25 11:06"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 11:06"
+}{
+    "sentence": "do you have samsung j7",
+    "datetime": "2018-06-25 11:08"
+}{
+    "sentence": "thanks",
+    "datetime": "2018-06-25 11:10"
+}{
+    "sentence": "do you have samsung brand",
+    "datetime": "2018-06-25 11:10"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 11:13"
+}{
+    "sentence": "do you have samsung phone",
+    "datetime": "2018-06-25 11:13"
+}{
+    "sentence": "samsung s8",
+    "datetime": "2018-06-25 11:13"
+}{
+    "sentence": "samsung j9",
+    "datetime": "2018-06-25 11:13"
+}{
+    "sentence": "samsung s8",
+    "datetime": "2018-06-25 11:13"
+}{
+    "sentence": "s8",
+    "datetime": "2018-06-25 11:13"
+}{
+    "sentence": "j9",
+    "datetime": "2018-06-25 11:14"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 11:17"
+}{
+    "sentence": "do you have samsung",
+    "datetime": "2018-06-25 11:17"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-25 11:17"
+}{
+    "sentence": "mmuah",
+    "datetime": "2018-06-25 11:37"
+}{
+    "sentence": "k cha ta",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "hello",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "how are you ",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "i am sad",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "joke ",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "i love you",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-25 11:38"
+}{
+    "sentence": "hi pricy",
+    "datetime": "2018-06-25 11:40"
+}{
+    "sentence": "i love you",
+    "datetime": "2018-06-25 11:40"
+}{
+    "sentence": "i hate you",
+    "datetime": "2018-06-25 11:40"
+}{
+    "sentence": "i want a phone",
+    "datetime": "2018-06-25 11:41"
+}{
+    "sentence": "phone",
+    "datetime": "2018-06-25 11:41"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-25 11:41"
+}{
+    "sentence": "galaxy",
+    "datetime": "2018-06-25 11:41"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-25 11:52"
+}{
+    "sentence": "hi pricy",
+    "datetime": "2018-06-25 14:08"
+}{
+    "sentence": "i dont want phone",
+    "datetime": "2018-06-25 14:08"
+}{
+    "sentence": "i dont need phone",
+    "datetime": "2018-06-25 14:09"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:11"
+}{
+    "sentence": "i dont need phone",
+    "datetime": "2018-06-25 14:11"
+}{
+    "sentence": "do you have sasmung",
+    "datetime": "2018-06-25 14:11"
+}{
+    "sentence": "look for j7",
+    "datetime": "2018-06-25 14:11"
+}{
+    "sentence": "look for",
+    "datetime": "2018-06-25 14:11"
+}{
+    "sentence": " look for j7",
+    "datetime": "2018-06-25 14:12"
+}{
+    "sentence": "what is the cost of j7",
+    "datetime": "2018-06-25 14:12"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:15"
+}{
+    "sentence": "look for j7",
+    "datetime": "2018-06-25 14:15"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:16"
+}{
+    "sentence": "what's the price of j7",
+    "datetime": "2018-06-25 14:16"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:17"
+}{
+    "sentence": "please specify the price of j7",
+    "datetime": "2018-06-25 14:17"
+}{
+    "sentence": "please speciy the price of j7",
+    "datetime": "2018-06-25 14:18"
+}{
+    "sentence": "compare j7 and j8",
+    "datetime": "2018-06-25 14:19"
+}{
+    "sentence": "galaxy s9",
+    "datetime": "2018-06-25 14:23"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:27"
+}{
+    "sentence": "j7 pro",
+    "datetime": "2018-06-25 14:27"
+}{
+    "sentence": "price of a5",
+    "datetime": "2018-06-25 14:27"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:28"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:38"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 14:39"
+}{
+    "sentence": "how are you",
+    "datetime": "2018-06-25 14:39"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-25 14:39"
+}{
+    "sentence": "what can you do for me",
+    "datetime": "2018-06-25 14:39"
+}{
+    "sentence": "compare s8",
+    "datetime": "2018-06-25 14:40"
+}{
+    "sentence": "ok thanks",
+    "datetime": "2018-06-25 14:40"
+}{
+    "sentence": "bye",
+    "datetime": "2018-06-25 14:40"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 16:48"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 16:51"
+}{
+    "sentence": "ok thanks",
+    "datetime": "2018-06-25 16:51"
+}{
+    "sentence": "so what do you do pricy",
+    "datetime": "2018-06-25 16:51"
+}{
+    "sentence": "oh",
+    "datetime": "2018-06-25 16:51"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 16:52"
+}{
+    "sentence": "can you please check the price of samsung j7?",
+    "datetime": "2018-06-25 16:53"
+}{
+    "sentence": "can you please check the price of samsung j7?",
+    "datetime": "2018-06-25 16:54"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 16:56"
+}{
+    "sentence": "ok thank you",
+    "datetime": "2018-06-25 16:56"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 17:01"
+}{
+    "sentence": "no",
+    "datetime": "2018-06-25 17:01"
+}{
+    "sentence": "no brand",
+    "datetime": "2018-06-25 17:01"
+}{
+    "sentence": "what else do you do",
+    "datetime": "2018-06-25 17:01"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 17:02"
+}{
+    "sentence": "tell me a joke",
+    "datetime": "2018-06-25 17:02"
+}{
+    "sentence": "tell me a joke instead",
+    "datetime": "2018-06-25 17:02"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-25 17:02"
+}{
+    "sentence": "what's your name",
+    "datetime": "2018-06-25 17:02"
+}{
+    "sentence": "i love you pricy",
+    "datetime": "2018-06-25 17:03"
+}{
+    "sentence": "pricy",
+    "datetime": "2018-06-25 17:03"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "tell me a joke instead",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "hehe",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "haha",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "hehe",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "jlskdjf",
+    "datetime": "2018-06-25 17:07"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 17:08"
+}{
+    "sentence": "sjlkf",
+    "datetime": "2018-06-25 17:08"
+}{
+    "sentence": "rfkj",
+    "datetime": "2018-06-25 17:10"
+}{
+    "sentence": "khgr",
+    "datetime": "2018-06-25 17:10"
+}{
+    "sentence": "ok",
+    "datetime": "2018-06-25 17:10"
+}{
+    "sentence": "jjoirf",
+    "datetime": "2018-06-25 17:10"
+}{
+    "sentence": "good",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "give me shriya phone number",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "give me shriya number",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "ok good",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "haha",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "i love you pricy",
+    "datetime": "2018-06-25 17:11"
+}{
+    "sentence": "no i dont want to buy phone",
+    "datetime": "2018-06-25 17:15"
+}{
+    "sentence": "tell me a joke",
+    "datetime": "2018-06-25 17:15"
+}{
+    "sentence": "lol",
+    "datetime": "2018-06-25 17:15"
+}{
+    "sentence": "you are funny",
+    "datetime": "2018-06-25 17:15"
+}{
+    "sentence": "hmm",
+    "datetime": "2018-06-25 17:15"
+}{
+    "sentence": "so can you compare price of samsung j7 from different websites?",
+    "datetime": "2018-06-25 17:16"
+}{
+    "sentence": "hi pricy",
+    "datetime": "2018-06-25 17:19"
+}{
+    "sentence": "no i dont want to search any phone",
+    "datetime": "2018-06-25 17:19"
+}{
+    "sentence": "ok can you tell me a joke",
+    "datetime": "2018-06-25 17:19"
+}{
+    "sentence": "Lol",
+    "datetime": "2018-06-25 17:19"
+}{
+    "sentence": "hehe",
+    "datetime": "2018-06-25 17:19"
+}{
+    "sentence": "ok so tell me what do you do",
+    "datetime": "2018-06-25 17:19"
+}{
+    "sentence": "wow good",
+    "datetime": "2018-06-25 17:20"
+}{
+    "sentence": "i love you pricy",
+    "datetime": "2018-06-25 17:20"
+}{
+    "sentence": "ok that was nice talking to you bye",
+    "datetime": "2018-06-25 17:20"
+}{
+    "sentence": "hi",
+    "datetime": "2018-06-25 17:25"
+}{
+    "sentence": "gu company",
+    "datetime": "2018-06-25 17:25"
+}{
+    "sentence": "sorry?",
+    "datetime": "2018-06-25 17:25"
+}{
+    "sentence": "gu",
+    "datetime": "2018-06-25 17:25"
+}{
+    "sentence": "what",
+    "datetime": "2018-06-25 17:25"
+}{
+    "sentence": "samsung",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "j",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "i love you pricy",
+    "datetime": "2018-06-25 17:26"
+}{
+    "sentence": "who is ur mommy?",
+    "datetime": "2018-06-25 17:27"
+}{
+    "sentence": "i love u pricy",
+    "datetime": "2018-06-25 17:35"
+}{
+    "sentence": "attitude huh",
+    "datetime": "2018-06-25 17:35"
+}{
+    "sentence": "ok fine",
+    "datetime": "2018-06-25 17:35"
+}{
+    "sentence": "that was not nice talking to you bye",
+    "datetime": "2018-06-25 17:35"
+}

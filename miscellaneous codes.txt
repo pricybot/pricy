@@ -1,0 +1,26 @@
+usertext = {'sentence': sentence,'class': return_results[0][0], 'value': return_results[0][1], 'datetime': now.strftime("%Y-%m-%d %H:%M") }
+
+usertext_file = "usertextlogs.json"
+
+with open(usertext_file, 'w') as outfile:
+   json.dump(usertext, outfile, indent=4, sort_keys=False)
+print("saved logs to:", usertext_file)
+
+
+
+
+
+####method 2
+    path = './'
+    fileName = 'usertextlogs'
+
+    now = datetime.datetime.now()
+
+    data = {}
+    data['sentence'] = sentence
+    data['class'] = return_results[0][0]
+    data['value'] = return_results[0][1]
+    data['datetime'] = now.strftime("%Y-%m-%d %H:%M")
+
+    writeToJSONFile(path, fileName, data)
+    print("Log recored to "+ fileName)
